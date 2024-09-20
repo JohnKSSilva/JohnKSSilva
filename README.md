@@ -2,7 +2,7 @@
 
 ### About me
 
-💻 I'm a fullstack developer
+💻 I'm a Fullstack Developer
 
 🎓 I have a degree in Information Systems
 
